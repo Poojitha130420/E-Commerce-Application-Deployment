@@ -1,4 +1,4 @@
-app/index.html
+## app/index.html
 
 <!DOCTYPE html>
 <html>
@@ -24,3 +24,25 @@ app/index.html
 
 </body>
 </html>
+
+
+## app/style.css
+
+body {
+  font-family: Arial;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.product {
+  background: white;
+  padding: 15px;
+  margin: 20px;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+
+## app/app.js
+
+console.log("E-Commerce App Loaded Successfully");
