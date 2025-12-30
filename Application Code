@@ -1,0 +1,26 @@
+app/index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ShopEase - E-Commerce</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🛒 ShopEase</h1>
+  <p>Welcome to our E-Commerce Store</p>
+
+  <div class="product">
+    <h3>Product 1</h3>
+    <p>Price: ₹999</p>
+    <button>Buy Now</button>
+  </div>
+
+  <div class="product">
+    <h3>Product 2</h3>
+    <p>Price: ₹1499</p>
+    <button>Buy Now</button>
+  </div>
+
+</body>
+</html>
